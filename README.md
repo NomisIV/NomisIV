@@ -8,4 +8,4 @@ Let me tell you why:
 
 Using a closed-source and centralized system for hosting source code is not in the spirit of open-source.
 
-I won't use this account more than I have to. Intead you can find me on [sourcehut](https://sr.ht/~nomisiv)
+I won't use this account more than I have to. Intead you can find me on [codeberg](https://codeberg.org/NomisIV)
